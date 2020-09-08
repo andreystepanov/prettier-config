@@ -1,5 +1,5 @@
 {
-  "name": "@andrey.co/prettier-config",
+  "name": "@anst/prettier-config",
   "version": "1.0.0",
   "description": "My personal prettier config",
   "main": "index.json",
